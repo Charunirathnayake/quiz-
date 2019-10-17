@@ -11,6 +11,8 @@
 <head>
 	<title>Registration page</title>
 	<link rel="stylesheet" type="text/css" href="style.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 </head>
 <body>
       
@@ -34,6 +36,16 @@
        
         <a href="login.php"><input type="button" id="back_btn" value="Back to Login"></a>
     </form>
+	    
+        <footer>
+  <center><p>Contact Us</p></center>
+  
+ <center> <i class="fa fa-facebook" style="font-size:20px;margin: 10px;color:#b52678"></i>
+ 	<i class="fa fa-google-plus" style="font-size:20px;margin: 10px;color: #b52678"></i>
+   <i class="fa fa-linkedin" style="font-size:20px;margin: 10px;color: #b52678"></i>
+  <i class="fa fa-twitter" style="font-size:20px margin
+  10px;color: #b52678"></i></center>
+</footer>
 
 
 <?php
