@@ -13,7 +13,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
-      
+	<h3>Register Here</h3><br>
     <div class="login-box">
   <img src="user1.png" class="user1"> 
 
